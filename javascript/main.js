@@ -20,7 +20,7 @@ function calculoCuota(valorProducto, cantidadCuotas) {
     alert(
       'Su cuota con intereses del 50 % es de ' +
         valorCuota +
-        ' pesos en' +
+        ' pesos en ' +
         cantidadCuotas +
         ' pagos.',
     )
